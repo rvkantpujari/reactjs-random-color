@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-random-color/static/css/main.ee079f9f.css",
+    "main.js": "/reactjs-random-color/static/js/main.b0b66c71.js",
+    "index.html": "/reactjs-random-color/index.html",
+    "main.ee079f9f.css.map": "/reactjs-random-color/static/css/main.ee079f9f.css.map",
+    "main.b0b66c71.js.map": "/reactjs-random-color/static/js/main.b0b66c71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee079f9f.css",
+    "static/js/main.b0b66c71.js"
+  ]
+}
